@@ -4,6 +4,8 @@ An interactive **CLI portfolio card** that introduces me, **Ram Kumar**, a Pre-F
 Run it instantly in your terminal using **npx** and connect with me across platforms 🚀.
 
 ---
+<img width="1536" height="960" alt="Screenshot (145)" src="https://github.com/user-attachments/assets/ca409575-8d7a-4785-b308-96ca96f48d3c" />
+
 
 ## 📌 Project Overview
 The **fuzziecoder NPX card** is a minimal and creative way to share my portfolio right in the terminal.  
