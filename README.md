@@ -1,4 +1,4 @@
-# 💳 fuzziecoder - NPX Portfolio Card
+# 💳 fuzziecoder - NPX Business Card
 
 An interactive **CLI portfolio card** that introduces me, **Ram Kumar**, a Pre-Final Year Engineering Student in **AI & Data Science**.  
 Run it instantly in your terminal using **npx** and connect with me across platforms 🚀.
