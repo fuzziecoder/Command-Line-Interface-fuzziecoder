@@ -44,7 +44,7 @@ That’s it! 🎉 – My portfolio card will appear interactively in your CLI.
 
 ## 👤 Author
 **Ram Kumar**  
-Pre-Final Year Engineering Student in *AI & Data Science*  
+Pre-Final Year Engineering Student in *Artificial Intelligence & Data Science*  
 
 🌐 Portfolio: [fuzziecoder.online](https://www.fuzziecoder.online/)  
 🐙 GitHub: [github.com/fuzziecoder](https://github.com/fuzziecoder)  
